@@ -1,10 +1,10 @@
 import React from 'react'
-import J8ahmed from './projects/j8ahmed_portfolio'
+import ShoppingCart from './shopping_cart'
 
 const App = () => {
     return (
     <React.Fragment> 
-        <J8ahmed />
+        <ShoppingCart />
     </React.Fragment>)
 }
 
